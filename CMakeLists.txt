@@ -31,4 +31,25 @@ add_executable(CodeTantra main.cpp
         "DSA/Linked List Module/2-1-6.c"
         "DSA/Linked List Module/2-1-7.c"
         "DSA/Linked List Module/2-1-8.c"
-        "DSA/Linked List Module/2-1-9.c")
+        "DSA/Linked List Module/2-1-9.c"
+        OS/1_Lab4/1.1.1.c
+        OS/3_Lab6/3.1.16.c
+        OS/3_Lab6/3.1.14.c
+        OS/3_Lab6/3.1.13.c
+        OS/3_Lab6/3.1.15.c
+        OS/3_Lab6/3.1.17.c
+        OS/3_Lab6/3.1.18.c
+        OS/3_Lab6/3.1.11.c
+        OS/3_Lab6/3.1.19.c
+        OS/3_Lab6/3.1.20.c
+        OS/3_Lab6/3.1.12.c
+        OS/3_Lab6/3.1.1.c
+        OS/3_Lab6/3.1.2.c
+        OS/3_Lab6/3.1.3.c
+        OS/3_Lab6/3.1.4.c
+        OS/3_Lab6/3.1.5.c
+        OS/3_Lab6/3.1.6.c
+        OS/3_Lab6/3.1.7.c
+        OS/3_Lab6/3.1.8.c
+        OS/3_Lab6/3.1.9.c
+        OS/3_Lab6/3.1.10.c)
