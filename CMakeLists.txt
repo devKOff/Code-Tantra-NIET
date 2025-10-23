@@ -52,4 +52,9 @@ add_executable(CodeTantra main.cpp
         OS/3_Lab6/3.1.7.c
         OS/3_Lab6/3.1.8.c
         OS/3_Lab6/3.1.9.c
-        OS/3_Lab6/3.1.10.c)
+        OS/3_Lab6/3.1.10.c
+        OS/2_Lab5/2.1.1.c
+        OS/2_Lab5/2.1.2.c
+        OS/2_Lab5/2.1.3.c
+        OS/1_Lab4/1.1.2.c
+        OS/1_Lab4/1.1.3.c)
