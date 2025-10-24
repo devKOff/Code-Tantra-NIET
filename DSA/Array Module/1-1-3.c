@@ -1,3 +1,22 @@
-//
-// Created by ACER on 19-10-2025.
-//
+#include <stdio.h>
+
+int main() {
+    int n;
+    scanf("%d", &n);
+
+    int arr[n];
+    for (int i = 0; i < n; i++) {
+        scanf("%d", &arr[i]);
+    }
+
+    printf("[");
+    for (int i = n - 1; i >= 0; i--) {
+        printf("%d", arr[i]);
+        if (i > 0) {
+            printf(", ");
+        }
+    }
+    printf("]\n");
+
+    return 0;
+}
